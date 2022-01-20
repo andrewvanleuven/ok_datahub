@@ -1,5 +1,12 @@
 ---
-header_image: "images/cover-image.jpg"
-header_headline: "Oklahoma Data Hub"
-header_subheadline: "Your source for state and county indicators"
+title: 'Homepage'
+meta_title: 'Oklahoma Data Hub'
+description: "State and County Indicators in Oklahoma"
+intro_image: "images/splashs.png"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
+
+# Oklahoma Data Hub
+
+State and County Indicators in Oklahoma
