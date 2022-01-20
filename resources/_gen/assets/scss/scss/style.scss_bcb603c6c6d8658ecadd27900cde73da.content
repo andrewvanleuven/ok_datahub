@@ -4120,7 +4120,7 @@ ol {
   position: static; }
 
 .footer {
-  background: #FF7300;
+  background: #000000;
   padding-top: 15px;
   padding-bottom: 15px; }
   .footer .footer-inner {
@@ -4134,7 +4134,7 @@ ol {
         flex-direction: row;
         align-items: center; } }
   .footer .footer-title {
-    color: #ffffff;
+    color: #FF7300;
     font-size: 1.3rem;
     font-family: "Fjalla One", sans-serif, -apple-system;
     font-weight: bold;
@@ -4147,10 +4147,10 @@ ol {
     margin: 0;
     padding: 0; }
     .footer ul li {
-      color: #ffffff;
+      color: #b6b6b6;
       font-size: 1rem; }
       .footer ul li a {
-        color: #ffffff;
+        color: #b6b6b6;
         text-decoration: none;
         padding: 12px 14px 12px 0;
         display: block; }
@@ -4177,7 +4177,7 @@ ol {
             height: 40px;
             padding: 10px 8px 10px 8px; } }
 .sub-footer {
-  background: #ff7300;
+  background: #000000;
   color: #ffffff;
   padding-top: 1px;
   padding-bottom: 1px; }
