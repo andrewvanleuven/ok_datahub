@@ -15,7 +15,7 @@ theme = "hugo-serif-theme"
 
   [params.homepage]
     show_contact_box = false # show / hide the contaxt box on the homepage
-    show_services_button = true  # show / hide the "view all services" button
+    show_services_button = false  # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.png"
@@ -37,7 +37,7 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Access the Data"
     url = "/services/"
       weight = 1
 
@@ -46,10 +46,10 @@ theme = "hugo-serif-theme"
 #      url = "/team/"
 #      weight = 2
 
-  [[menu.main]]
-      name = "About"
-      url = "/about/"
-      weight = 3
+#  [[menu.main]]
+#      name = "About"
+#      url = "/about/"
+#      weight = 3
 
   [[menu.main]]
       name = "Contact"
@@ -57,12 +57,12 @@ theme = "hugo-serif-theme"
       weight = 4
 
   # Footer Menu
-#  [[menu.footer]]
-#    name = "Home"
-#    url = "/"
-#      weight = 1
+  [[menu.footer]]
+  name = "About"
+  url = "/about/"
+      weight = 1
 
-#  [[menu.footer]]
-#    name = "Contact"
-#    url = "/contact/"
-#      weight = 2
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+      weight = 2

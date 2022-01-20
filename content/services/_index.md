@@ -1,11 +1,11 @@
 ---
-title: 'Services'
-description: 'We offer a range of services to help your business'
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
+title: 'Data'
+description: 'The Oklahoma Data Hub includes a variety of state and county indicators'
+intro_image: "images/splashs.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# State and County Indicators
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+The Oklahoma Data Hub includes state and county indicators from a variety of topic areas.

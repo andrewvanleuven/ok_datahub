@@ -4179,8 +4179,8 @@ ol {
 .sub-footer {
   background: #ff7300;
   color: #ffffff;
-  padding-top: 15px;
-  padding-bottom: 15px; }
+  padding-top: 1px;
+  padding-bottom: 1px; }
 
 .logo {
   display: none; }
