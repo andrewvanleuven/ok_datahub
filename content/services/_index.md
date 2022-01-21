@@ -1,9 +1,10 @@
 ---
 title: 'Data'
-description: 'The Oklahoma Data Hub includes a variety of state and county indicators'
-intro_image: "images/splashs.png"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
+date: 2018-02-10T11:52:18+07:00
+heroHeading: 'Data'
+heroSubHeading: ''
+heroBackground: 'img/ok_buffalo.jpeg'
+#The Oklahoma Data Hub includes a variety of state and county indicators
 ---
 
 # State and County Indicators

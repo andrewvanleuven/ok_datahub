@@ -1,12 +1,7 @@
 ---
-title: 'Homepage'
-meta_title: 'Oklahoma Data Hub'
-description: "State and County Indicators in Oklahoma"
-intro_image: "images/splashs.png"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
+title: 'Home'
+date: 2018-02-12T15:37:57+07:00
+heroHeading: 'Oklahoma''s source for timely and policy-relevant data.'
+heroSubHeading: 'Scroll below to access a variety of economic & agricultural indicators pertaining to Oklahoma and its counties.'
+heroBackground: 'img/guthrie_ok.jpeg'
 ---
-
-# Oklahoma Data Hub
-
-State and County Indicators in Oklahoma

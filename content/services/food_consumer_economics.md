@@ -3,13 +3,10 @@ title: "Food and Consumer Economics"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
-weight: 3
+weight: 2
+heroHeading: 'Food and Consumer Economics'
+heroSubHeading: ''
+heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Food and consumer economics seeks to understand what consumers want out of agriculture in terms of the quality and affordability of the food they eat, but also how food production impacts the environment, animal welfare, and natural resources. Issues in food policy, emerging food issues, consumer behavior, livestock and meat technology and marketing, farm animal welfare, agricultural controversies, acceptance of food and agricultural technologies and research methods are being analyzed.
