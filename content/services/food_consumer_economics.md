@@ -6,7 +6,7 @@ draft: false
 weight: 2
 heroHeading: 'Food and Consumer Economics'
 heroSubHeading: ''
-heroBackground: 'services/service1.jpg'
+heroBackground: 'img/ok_industry.jpeg'
 ---
 
 Food and consumer economics seeks to understand what consumers want out of agriculture in terms of the quality and affordability of the food they eat, but also how food production impacts the environment, animal welfare, and natural resources. Issues in food policy, emerging food issues, consumer behavior, livestock and meat technology and marketing, farm animal welfare, agricultural controversies, acceptance of food and agricultural technologies and research methods are being analyzed.

@@ -6,7 +6,7 @@ featured: true
 weight: 3
 heroHeading: 'Production & Farm Management'
 heroSubHeading: ''
-heroBackground: 'services/service1.jpg'
+heroBackground: 'img/ok_industry.jpeg'
 ---
 
 Research in production economics and farm management focuses on farm and ranch profitability, including crop and livestock economics, and risk management. Research addresses value-added beef production systems, cropping systems, economics analyses of genotypic information, land values and rental rates, environmental issues, economics of horticultural and other alternative crops in Oklahoma, and evaluating the performance of new agricultural technology, and farm management practices.

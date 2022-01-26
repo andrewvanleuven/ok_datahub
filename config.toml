@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ok-datahub.netlify.app/"
 languageCode = "en-us"
 title = "Oklahoma Data Hub"
 theme = "hugo-hero-theme"
@@ -12,9 +12,8 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "img/logo-mobile.png"
+    mobile = "img/logo_full.png"
     mobile_height = "36px"
-    mobile_width = "36px"
     desktop = "img/logo_full.png"
     desktop_height = "75px"
     desktop_width = "400px"
