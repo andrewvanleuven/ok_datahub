@@ -2,7 +2,7 @@
 title: "Agribusiness"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-icon: 'services/service-icon-1.png'
+icon: 'services/agbiz_icon.png'
 featured: false
 weight: 2
 heroHeading: 'Agribusiness'

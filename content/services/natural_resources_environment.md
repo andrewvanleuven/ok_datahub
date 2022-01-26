@@ -1,7 +1,7 @@
 ---
 title: "Natural Resources & Environmental Economics"
 date: 2018-11-28T15:14:54+10:00
-icon: 'services/service-icon-1.png'
+icon: 'services/nat_rec_icon.png'
 featured: false
 draft: false
 weight: 5

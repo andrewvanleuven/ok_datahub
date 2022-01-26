@@ -2,7 +2,7 @@
 title: "Marketing"
 date: 2018-11-28T15:15:34+10:00
 featured: false
-icon: 'services/service-icon-1.png'
+icon: 'services/marketing_icon.png'
 draft: false
 weight: 4
 heroHeading: 'Marketing'
