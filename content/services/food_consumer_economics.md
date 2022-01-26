@@ -2,8 +2,9 @@
 title: "Food and Consumer Economics"
 date: 2018-11-28T15:15:26+10:00
 featured: true
+icon: 'services/food_icon.png'
 draft: false
-weight: 2
+weight: 3
 heroHeading: 'Food and Consumer Economics'
 heroSubHeading: ''
 heroBackground: 'img/ok_industry.jpeg'

@@ -4,8 +4,8 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 4
 heroHeading: 'Map Image Files'
-heroSubHeading: 'Previously-created maps using Oklahoma indicators'
-heroBackground: 'work/work1.jpg'
+#heroSubHeading: 'Previously-created maps using Oklahoma indicators'
+heroBackground: 'work/ok_map_2.png'
 thumbnail: 'work/map_files.png'
 images:
 ---

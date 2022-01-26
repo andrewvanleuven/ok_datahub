@@ -2,8 +2,9 @@
 title: "Agribusiness"
 date: 2018-11-18T12:33:46+10:00
 draft: false
-featured: true
-weight: 5
+icon: 'services/service-icon-1.png'
+featured: false
+weight: 2
 heroHeading: 'Agribusiness'
 heroSubHeading: ''
 heroBackground: 'img/ok_industry.jpeg'

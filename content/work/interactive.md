@@ -3,9 +3,9 @@ title: 'Interactive Maps'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
-heroHeading: 'Cargo Terminal'
-heroSubHeading: 'Dockyard construction planning and review.'
-heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
+heroHeading: 'Interactive Maps'
+heroSubHeading: ''
+heroBackground: 'work/ok_map_1.png'
 thumbnail: 'work/map_select.png'
 images: []
 ---

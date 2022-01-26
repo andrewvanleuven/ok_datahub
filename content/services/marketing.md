@@ -1,9 +1,10 @@
 ---
 title: "Marketing"
 date: 2018-11-28T15:15:34+10:00
-featured: true
+featured: false
+icon: 'services/service-icon-1.png'
 draft: false
-weight: 6
+weight: 4
 heroHeading: 'Marketing'
 heroSubHeading: ''
 heroBackground: 'img/ok_industry.jpeg'

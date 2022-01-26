@@ -2,8 +2,9 @@
 title: "Production & Farm Management"
 date: 2018-11-18T12:33:46+10:00
 draft: false
+icon: 'services/farm_icon.png'
 featured: true
-weight: 3
+weight: 6
 heroHeading: 'Production & Farm Management'
 heroSubHeading: ''
 heroBackground: 'img/ok_industry.jpeg'

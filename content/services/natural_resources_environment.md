@@ -1,9 +1,10 @@
 ---
 title: "Natural Resources & Environmental Economics"
 date: 2018-11-28T15:14:54+10:00
-featured: true
+icon: 'services/service-icon-1.png'
+featured: false
 draft: false
-weight: 7
+weight: 5
 heroHeading: 'Natural Resources & Environmental Economics'
 heroSubHeading: ''
 heroBackground: 'img/ok_industry.jpeg'

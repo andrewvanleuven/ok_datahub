@@ -8,11 +8,11 @@ heroBackground: 'img/ok_field.jpeg'
 ---
 
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/pages/about" "content2" >}}
 </div>
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
+{{< content-strip-right "/pages/about" "content3" >}}
 </div>
 <div>
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-center "/pages/about" "content1" >}}
 </div>
