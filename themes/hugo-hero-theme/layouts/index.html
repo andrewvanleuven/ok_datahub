@@ -17,6 +17,8 @@
 
 {{ define "main" }}
 
+
+
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
 {{ $headless := .Site.GetPage "/homepage" }}
