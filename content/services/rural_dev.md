@@ -7,7 +7,7 @@ featured: true
 weight: 7
 heroHeading: 'Rural Development'
 heroSubHeading: ''
-heroBackground: 'img/ok_industry.jpeg'
+heroBackground: 'img/small_town_ks.jpg'
 ---
 
 Rural Development research assesses the impact on local economies of program and environmental changes. Specific topics include: broadband, entrepreneurship, public goods, health infrastructure, the effect of incentive, and investment programs.
